@@ -1,10 +1,1 @@
-# Hi! 👋
-I'm yallxe, and I'm Fullstack Web Developer, Junior Software and Reverse Engineer.
-
-Checkout my latest released project: <a href="https://github.com/yallxe/outrage">Outrage</a> 
-
-Contact with me:<br><br>
-<a href="https://t.me/yallxe">
-  <img src="https://telegram.org/img/t_logo.png" alt="Telegram"></img>
-</a>
-
+[![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyallxe&count_bg=%23002E9C&title_bg=%23000863&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
