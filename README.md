@@ -1,4 +1,2 @@
-* Constantly using: Vue.js, FastAPI, Rust, Python, JS
-* [Telegram](https://t.me/yallxe)
-
-[![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyallxe&count_bg=%23002E9C&title_bg=%23000863&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+* Software Engineer | [Telegram](https://t.me/yallxe)
+<div><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyallxe&count_bg=%2347175A&title_bg=%23454545&icon=googlepodcasts.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a></div>
